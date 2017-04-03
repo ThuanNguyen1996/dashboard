@@ -1,0 +1,87 @@
+.type-25-13 .content8 {
+  color: #73879C;
+  font-size: 13px;
+}
+.type-25-13 .content8 a {
+  color: #5A738E;
+  text-decoration: none;
+}
+.type-25-13 .content8 .x_panel {
+  width: 100%;
+  padding: 10px 17px;
+  display: inline-block;
+  background: #fff;
+  border: 1px solid #E6E9ED;
+  opacity: 1;
+}
+.type-25-13 .content8 .x_title {
+  border-bottom: 2px solid #E6E9ED;
+  padding: 1px 5px 6px;
+}
+.type-25-13 .content8 h2 {
+  margin: 5px 0 6px;
+  float: left;
+  display: block;
+  font-size: 18px;
+  font-weight: 400;
+}
+.type-25-13 .content8 .panel_toolbox>li {
+  float: left;
+  cursor: pointer;
+}
+.type-25-13 .content8 .panel_toolbox>li>a {
+  padding: 5px;
+  color: #C5C7CB;
+  font-size: 14px;
+}
+.type-25-13 .content8 small {
+  margin-left: 10px;
+}
+.type-25-13 .content8 .navbar-right {
+  float: right;
+}
+.type-25-13 .content8 .pannel-collapse {
+  padding-top: 15px;
+}
+.type-25-13 .content8 .btn-toolbar {
+  zoom: 1;
+  background: #F7F7F7;
+  margin: 5px 2px;
+  padding: 3px 0;
+  border: 1px solid #EFEFEF;
+}
+.type-25-13 .content8 .dropdown-menu {
+  box-shadow: none;
+  float: left;
+  font-size: 12px;
+  list-style: none;
+  padding: 0;
+  z-index: 9998;
+}
+.type-25-13 .content8 .editor-wrapper {
+  min-height: 250px;
+  background-color: #fff;
+  border-collapse: separate;
+  border: 1px solid #ccc;
+  padding: 4px;
+  box-sizing: content-box;
+  box-shadow: rgba(0,0,0,0.07451) 0 1px 1px 0 inset;
+  overflow: scroll;
+  outline: 0;
+  border-radius: 3px;
+}
+.type-25-13 .content8 .ln_solid {
+  border-top: 1px solid #e5e5e5;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  margin: 20px 0;
+}
+.type-25-13 .content8 .form-control {
+  border-radius: 0px;
+}
+@media (max-width: 1200px) {
+  small {
+    display: none;
+  }
+}

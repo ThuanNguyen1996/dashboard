@@ -1,0 +1,178 @@
+.type-25-2 .content2 .dashboard_graph {
+  background: #fff;
+  padding: 7px 10px;
+}
+.type-25-2 .content2 .dashboard_graph .x_title {
+  padding: 5px 5px 7px;
+  border-bottom: 2px solid #e6e9ed;
+  margin-bottom: 10px;
+}
+.type-25-2 .content2 .dashboard_graph .x_title h3 {
+  margin: 0;
+  font-weight: 400;
+}
+.type-25-2 .content2 .dashboard_graph .x_title #reportrange {
+  background: #fff;
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  float: right;
+  color: #bdbdbd;
+}
+.type-25-2 .content2 .dashboard_graph .x_title h2 {
+  font-size: 18px;
+  margin: 5px 0 6px;
+}
+.type-25-2 .content2 .dashboard_graph .x_title p {
+  margin: 0 0 4px;
+}
+.type-25-2 .content2 .dashboard_graph .progress_sm {
+  border-radius: 0;
+  margin-bottom: 18px;
+  width: 76%;
+  height: 10px;
+}
+.type-25-2 .content2 .dashboard_graph .progress_sm .progress-bar {
+  height: 10px;
+}
+.type-25-2 .content2 .dashboard_graph .demo-placeholder {
+  height: 280px;
+}
+.type-25-2 .content2 .dashboard_graph .flot-overlay {
+  direction: ltr;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 280px;
+}
+.type-25-2 .content2 .flot-base {
+  width: 100% !important;
+}
+.type-25-2 .content2 .bg-white {
+  color: #73879C;
+}
+.type-25-2 .content2 .bg-green {
+  background: #1ABB9C !important;
+  border: 1px solid #1ABB9C !important;
+  color: #fff;
+}
+.type-25-2 .content2 .progress.progress_sm,
+.type-25-2 .content2 .progress.progress_sm .progress-bar {
+  height: 10px !important;
+}
+.type-25-2 .content2 .progress_sm {
+  width: 76%;
+}
+.type-25-2 .content2 .dashboard_graph p {
+  margin: 0 0 4px;
+}
+.type-25-2 .content2 .flot-text {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  font-size: smaller;
+  color: #545454;
+}
+.type-25-2 .content2 .flot-x1-axis {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  display: block;
+}
+.type-25-2 .content2 .flot-x1-axis .flot-tick-label {
+  position: absolute;
+  max-width: 99px;
+  top: 264px;
+  text-align: center;
+}
+.type-25-2 .content2 .flot-x1-axis .flot-tick-label .flot1 {
+  left: 6%;
+}
+.type-25-2 .content2 .flot-x1-axis .flot-tick-label .flot2 {
+  left: 22%;
+}
+.type-25-2 .content2 .flot-x1-axis .flot-tick-label .flot3 {
+  left: 37%;
+}
+.type-25-2 .content2 .flot-x1-axis .flot-tick-label .flot4 {
+  left: 53%;
+}
+.type-25-2 .content2 .flot-x1-axis .flot-tick-label .flot5 {
+  left: 69%;
+}
+.type-25-2 .content2 .flot-x1-axis .flot-tick-label .flot6 {
+  left: 85%;
+}
+.type-25-2 .content2 .flot-y1-axis {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  right: 0px;
+  display: block;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label {
+  position: absolute;
+  text-align: right;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick1 {
+  top: 252px;
+  left: 13px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick2 {
+  top: 232px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick3 {
+  top: 213px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick4 {
+  top: 194px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick5 {
+  top: 174px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick6 {
+  top: 155px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick7 {
+  top: 136px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick8 {
+  top: 116px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick9 {
+  top: 97px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick10 {
+  top: 78px;
+  left: 7px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick11 {
+  top: 58px;
+  left: 1px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick12 {
+  top: 39px;
+  left: 2px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick13 {
+  top: 20px;
+  left: 1px;
+}
+.type-25-2 .content2 .flot-y1-axis .flot-tick-label .tick14 {
+  top: 1px;
+  left: 1px;
+}

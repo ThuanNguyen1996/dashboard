@@ -1,0 +1,92 @@
+.type-25-8 .content3 {
+  color: #73879C;
+  font-size: 13px;
+}
+.type-25-8 .content3 a {
+  color: #5A738E;
+  text-decoration: none;
+}
+.type-25-8 .content3 .x_panel {
+  width: 100%;
+  padding: 10px 17px;
+  display: inline-block;
+  background: #fff;
+  border: 1px solid #E6E9ED;
+  opacity: 1;
+}
+.type-25-8 .content3 .x_title {
+  border-bottom: 2px solid #E6E9ED;
+  padding: 1px 5px 6px;
+}
+.type-25-8 .content3 h2 {
+  margin: 5px 0 6px;
+  float: left;
+  display: block;
+  font-size: 18px;
+  font-weight: 400;
+}
+.type-25-8 .content3 .panel_toolbox>li {
+  float: left;
+  cursor: pointer;
+}
+.type-25-8 .content3 .panel_toolbox>li>a {
+  padding: 5px;
+  color: #C5C7CB;
+  font-size: 14px;
+}
+.type-25-8 .content3 .navbar-right {
+  float: right;
+}
+.type-25-8 .content3 .pannel-collapse {
+  padding-top: 10px;
+}
+.type-25-8 .content3 .form-group {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 10px;
+}
+.type-25-8 .content3 .form-control {
+  border-radius: 0px;
+}
+.type-25-8 .content3 .feedback-left {
+  padding-left: 45px;
+}
+.type-25-8 .content3 .form-control-feedback.left {
+  border-right: 1px solid #ccc;
+  left: 13px;
+}
+.type-25-8 .content3 .form-control-feedback {
+  margin-top: 8px;
+  height: 23px;
+  color: #bbb;
+  line-height: 24px;
+  font-size: 15px;
+}
+.type-25-8 .content3 .form-control-feedback.right {
+  border-left: 1px solid #ccc;
+  right: 13px;
+}
+.type-25-8 .content3 .control-label {
+  padding-right: 0px;
+}
+.type-25-8 .content3 .ln_solid {
+  border-top: 1px solid #e5e5e5;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  margin: 20px 0;
+}
+.type-25-8 .content3 .btn-success:hover {
+  color: #fff;
+  background: #169f85;
+  border-color: #398439;
+}
+.type-25-8 .content3 .btn-success {
+  background: #26B99A;
+  border: 1px solid #169F85;
+}
+@media (max-width: 1200px) {
+  small {
+    display: none;
+  }
+}
